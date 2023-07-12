@@ -8,7 +8,7 @@
 <br>
 
 <div  align="center"> 
-  <div style="display: inline_block"><br>
+  <div style="display: flex"><br>
     <img align="left" height="250" alt="coding-time" src="https://cdn.class101.net/images/1f95ae00-c42f-43b0-8204-befad64264be/1920xauto.webp">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
