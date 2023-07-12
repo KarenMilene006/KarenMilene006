@@ -1,44 +1,34 @@
-# Olá, me chamo Karen ! 
-## Bem vindo(a) ao meu perfil GitHub 👋
-
-## Ferramentas e Tecnologias
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40" />
-          
-## Estou aprendendo
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-          
-## Contatos:
+## Oii, Karen Aqui!
 
 <div>
-<a href="https://www.instagram.com/karen_milene9/?igshid=MzRlODBiNWFlZA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "Karen:karenmilene006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/karen-milene-b3945a264" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=KarenMilene006&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenMilene006&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
+<br>
 
-
-
-
- <div>
-<a href="https://github.com/KarenMilene006">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenMilene006&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KarenMilene006&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-          
-  ![octocat-1689131988999](https://github.com/KarenMilene006/KarenMilene006/assets/118762191/a9f21207-2d41-41d5-9c4d-7cc4dabfe7f6)
-   
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="https://cdn.class101.net/images/1f95ae00-c42f-43b0-8204-befad64264be/1920xauto.webp">
+    <h1 align="center">Melhores Tecnologias <3</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+   </div>
     
-<!--
-**KarenMilene006/KarenMilene006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+  <h1 align="center">Redes Sociais</h1>
+    <a href = "mailto: KarenMilene006.com">
+      <img width="30" src="https://github.com/LuigiGf/LuigiGf/blob/main/gmail.svg">
+    </a>
+    <a href = "https://www.linkedin.com/in/karen-milene-b3945a264">
+      <img width="25" src="https://github.com/LuigiGf/LuigiGf/blob/main/linkedin.svg">
+    </a>  
+    <a href = "https://www.instagram.com/karen_milene9/?igshid=MzRlODBiNWFlZA%3D%3D">
+      <img width="25" src="https://github.com/LuigiGf/LuigiGf/blob/main/instagram.png">
+    </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 Atualmente estou Graduando o curso Ciência da Computação na Universidade José do Rosário Vellano
-- 🌱 Atualmente estou aprendendo a base do front End HTML,CSS,JAVASCRIPT
-- 🤔 Estou procurando ajuda com Javascript
-- 📫 Como entrar em contato comigo: (35)998696287
--->
+![Snake animation](https://github.com/KarenMilene006/KarenMilene006/blob/output/github-contribution-grid-snake.svg)
