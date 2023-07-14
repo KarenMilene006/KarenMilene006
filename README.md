@@ -1,6 +1,6 @@
 ## Oii, Karen Aqui!
 
-<div>
+<div style="display: inline-block">
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=KarenMilene006&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenMilene006&layout=compact&langs_count=16&theme=great-gatsby"/>
@@ -30,5 +30,3 @@
       <img width="25" src="https://github.com/LuigiGf/LuigiGf/blob/main/instagram.png">
     </a>
 </div>
-
-![Snake animation](https://github.com/KarenMilene006/KarenMilene006/blob/output/github-contribution-grid-snake.svg)
